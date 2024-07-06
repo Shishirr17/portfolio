@@ -10,10 +10,10 @@ Framer Motion
 VsCode
 Vercel
 
-#Features
+# Features
 
 🎨 Styled with React-Bootstrap and Css with easy to customize colors
 📱 Fully Responsive
 
-#Getting Started
+# Getting Started
 Clone down this repository. You will need node.js and git installed globally on your machine.
