@@ -1,4 +1,5 @@
 import React from "react";
+import { motion } from "framer-motion"
 import HeroImage from "../assets/heroImage.png";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import { Link } from "react-scroll";
