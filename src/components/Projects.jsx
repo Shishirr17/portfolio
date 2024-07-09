@@ -1,5 +1,6 @@
 import React from "react";
 import Carrent from '../assets/portfolio/Carrent.png'
+import Portfolio from '../assets/portfolio/portfolio.png'
 import { FaGithub } from "react-icons/fa";
 import { FaExternalLinkAlt } from "react-icons/fa";
 
@@ -11,7 +12,7 @@ const Projects = () => {
         },
         {
             id: 2,
-            src: Carrent,
+            src: Portfolio,
         },
         {
             id: 3,
@@ -44,7 +45,7 @@ const Projects = () => {
                 </div>
 
                 <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-8 px-12 sm:px-0">
-                    {portfolios.map(({ id, src }) => (
+                    {portfolios.map(({ id, src, }) => (
                         <div key={id} className="shadow-md shadow-gray-600 rounded-lg">
                             <img
                                 src={src}
