@@ -15,7 +15,7 @@ const Navbar = () => {
                 <a href="https://twitter.com/Shishirr17" target="_blank" className="" ><BsTwitterX size={20}/></a>
                 <a href="https://github.com/Shishirr17"  target="_blank" className="" ><FaGithub size={20}/></a>
                 <a href="mailto:shishirsrivastava506@gmail.com" target="_blank" className="" ><SiGmail size={20}/></a>
-                <a href="www.linkedin.com/in/shishir64" target="_blank" className="" ><SiLinkedin size={20}/></a>
+                <a href="https://linkedin.com/in/shishir64" target="_blank" className="" ><SiLinkedin size={20}/></a>
             </div>
         </div>
     );

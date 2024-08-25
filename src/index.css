@@ -2,7 +2,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Great+Vibes&display=swap');
 
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -14,10 +13,4 @@
     body {
       background-color: #20242d;
     }
-
-    
-    
-.bg-primary-color {
-  background-image: linear-gradient(to right, #6b2b72, #a5079d);
-}
-    };
+  }
